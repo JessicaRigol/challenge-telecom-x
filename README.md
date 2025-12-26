@@ -111,14 +111,14 @@ Com base na análise, recomenda-se:
 - Python
 - Pandas
 - Matplotlib
-- Jupyter Notebook
+- Google Colab
 
 ---
 
 ## 📁 Estrutura do Projeto
 
 - `TelecomX_BR.ipynb` — Notebook principal com toda a análise
-- `README.md` ou `README.txt` — Descrição do projeto
+- `README.md` — Descrição do projeto
 
 ---
 
